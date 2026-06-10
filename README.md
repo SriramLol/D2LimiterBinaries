@@ -1,5 +1,5 @@
-# D2Limiter Binaries
+﻿# D2Limiter / BobLimt Binaries
 
-Public binary-only update channel for BobLimt/D2Limiter.
+Binary-only update repository for BobLimt.
 
-The app checks `latest.json` on `main`, compares the version to the local build, downloads `BobLimt.exe`, and replaces itself. Source code is not stored in this repository.
+This repository intentionally contains no source code. The application checks `latest.json` on launch and downloads the package referenced by `package_url` when the version is newer than the running app.
