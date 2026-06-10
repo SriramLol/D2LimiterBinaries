@@ -1,5 +1,6 @@
-﻿# D2Limiter / BobLimt Binaries
+# BobLimt Binaries
 
-Binary-only update repository for BobLimt.
+Public binary-only update repo for BobLimt.
 
-This repository intentionally contains no source code. The application checks `latest.json` on launch and downloads the package referenced by `package_url` when the version is newer than the running app.
+Current version: v1.0.6
+Users should launch BobLimt.exe. The app checks latest.json on startup and applies full-folder zip updates automatically while preserving BobLimt.cfg and Ahk.
