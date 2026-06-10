@@ -1,5 +1,5 @@
 # D2Limiter Binaries
 
-Public binary-only releases for BobLimt/D2Limiter.
+Public binary-only update channel for BobLimt/D2Limiter.
 
-Download `BobLimt.exe` from the latest GitHub Release. Source code is not stored in this repository.
+The app checks `latest.json` on `main`, compares the version to the local build, downloads `BobLimt.exe`, and replaces itself. Source code is not stored in this repository.
