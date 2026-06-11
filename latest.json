@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.9",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.9.zip",
-    "changelog":  "BobLimt v1.0.9\n\n- Further performance pass to lower CPU and memory use while Destiny 2 is focused.\n- Foreground-window detection is cached, removing repeated process lookups on every overlay frame and hotkey tick.\n- The overlay reuses a single back buffer instead of allocating a full-screen bitmap on every repaint.\n- Overlay fonts and vector icon geometry are cached instead of being rebuilt each frame.\n- No changes to gameplay, keybinds, swaps, the clear tracker, or the update process."
+    "version":  "1.0.10",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.10.zip",
+    "changelog":  "BobLimt v1.0.10\n\n- Fixed severe in-game performance loss while Destiny 2 was focused: the overlay window previously covered the entire screen as a transparent layer, forcing Windows to composite the full screen over the game every frame and blocking fullscreen-optimized presentation. The overlay window now only occupies the small regions where widgets are actually drawn.\n- All overlay features behave exactly as before: timer, module badges, raid clears, and clear notifications are unchanged.\n- No changes to gameplay logic, keybinds, swaps, the clear tracker, or the update process."
 }
