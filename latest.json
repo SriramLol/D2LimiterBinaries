@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.14",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.14.zip",
-    "changelog":  "BobLimt v1.0.14\n\n- The 7500 module now always runs with buffering and auto-resync enabled for more reliable recovery. No action needed.\n- No changes to gameplay logic, keybinds, swaps, the clear tracker, or the update process."
+    "version":  "1.0.15",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.15.zip",
+    "changelog":  "BobLimt v1.0.15\n\n- Reworked the Good 7500 macro: it now ticks 3074 UL, holds left click, unticks the 7500 you have enabled, holds briefly, releases, and unticks 3074 UL.\n- No changes to gameplay logic, keybinds, swaps, the clear tracker, or the update process."
 }
