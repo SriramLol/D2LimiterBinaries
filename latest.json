@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.13",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.13.zip",
-    "changelog":  "BobLimt v1.0.13\n\n- Swap timing refinements: a short settle after opening the loadouts menu, the swap Delay now cleanly controls the gap between each click while cycling your loadouts, and the first click waits briefly so the cursor is in place.\n- QuickSwap clicks the chosen loadout a few times to reliably register the equip.\n- No changes to gameplay logic, the clear tracker, or the update process."
+    "version":  "1.0.14",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.14.zip",
+    "changelog":  "BobLimt v1.0.14\n\n- The 7500 module now always runs with buffering and auto-resync enabled for more reliable recovery. No action needed.\n- No changes to gameplay logic, keybinds, swaps, the clear tracker, or the update process."
 }
