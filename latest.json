@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.7",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.7.zip",
-    "changelog":  "BobLimt v1.0.7\n\n- Added the new Update window with changelog notes and an Update Now button.\n- Kept full-folder updates so new files are installed automatically while preserving BobLimt.cfg and Ahk.\n- Refreshed overlay styling, transparency, timer sizing, and MM:SS timer display.\n- Improved raid/dungeon clear notification timing and quick refresh after 30k ends.\n- Improved swap loadout opening reliability and AHK SendInput hotkey detection.\n- Reverted the app window resizing experiment so controls use the original window sizing."
+    "version":  "1.0.8",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.8.zip",
+    "changelog":  "BobLimt v1.0.8\n\n- Performance pass for lower frame/CPU impact while playing.\n- Overlay repainting is now adaptive instead of always running at animation speed.\n- Fast overlay refresh is used only while the raid-clear notification is sliding.\n- 30k active-load tracking uses a lighter 250ms refresh, and idle overlay refresh falls back to 1000ms.\n- Cached the overlay app icon instead of reloading it during repaint."
 }
