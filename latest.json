@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.8",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.8.zip",
-    "changelog":  "BobLimt v1.0.8\n\n- Performance pass for lower frame/CPU impact while playing.\n- Overlay repainting is now adaptive instead of always running at animation speed.\n- Fast overlay refresh is used only while the raid-clear notification is sliding.\n- 30k active-load tracking uses a lighter 250ms refresh, and idle overlay refresh falls back to 1000ms.\n- Cached the overlay app icon instead of reloading it during repaint."
+    "version":  "1.0.9",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.9.zip",
+    "changelog":  "BobLimt v1.0.9\n\n- Further performance pass to lower CPU and memory use while Destiny 2 is focused.\n- Foreground-window detection is cached, removing repeated process lookups on every overlay frame and hotkey tick.\n- The overlay reuses a single back buffer instead of allocating a full-screen bitmap on every repaint.\n- Overlay fonts and vector icon geometry are cached instead of being rebuilt each frame.\n- No changes to gameplay, keybinds, swaps, the clear tracker, or the update process."
 }
