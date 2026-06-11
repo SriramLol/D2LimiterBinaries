@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.10",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.10.zip",
-    "changelog":  "BobLimt v1.0.10\n\n- Fixed severe in-game performance loss while Destiny 2 was focused: the overlay window previously covered the entire screen as a transparent layer, forcing Windows to composite the full screen over the game every frame and blocking fullscreen-optimized presentation. The overlay window now only occupies the small regions where widgets are actually drawn.\n- All overlay features behave exactly as before: timer, module badges, raid clears, and clear notifications are unchanged.\n- No changes to gameplay logic, keybinds, swaps, the clear tracker, or the update process."
+    "version":  "1.0.11",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.11.zip",
+    "changelog":  "BobLimt v1.0.11\n\n- Full UI refresh: new icon set (traced vector icons for Settings, Overlay, Prefs, Keybinds, Swaps, AHK, and power), icon-only button row in the main window, and the Destiny tricorn logo in every title bar.\n- Power button in the main window closes the app; minimize moved to the top right. Other windows keep an X close button.\n- Softer overall look: thicker accent-colored window borders, rounder corners, and a softer UI font.\n- Window borders, the WinDivert status tag, and overlay badge outlines now follow your chosen accent color from Settings.\n- Main window title shows the app version.\n- No changes to gameplay logic, keybinds, swaps, the clear tracker, or the update process."
 }
