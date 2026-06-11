@@ -1,4 +1,5 @@
 {
-  "version": "1.0.6",
-  "package_url": "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.6.zip"
+    "version":  "1.0.7",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.7.zip",
+    "changelog":  "BobLimt v1.0.7\n\n- Added the new Update window with changelog notes and an Update Now button.\n- Kept full-folder updates so new files are installed automatically while preserving BobLimt.cfg and Ahk.\n- Refreshed overlay styling, transparency, timer sizing, and MM:SS timer display.\n- Improved raid/dungeon clear notification timing and quick refresh after 30k ends.\n- Improved swap loadout opening reliability and AHK SendInput hotkey detection.\n- Reverted the app window resizing experiment so controls use the original window sizing."
 }

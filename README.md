@@ -1,6 +1,5 @@
-# BobLimt Binaries
+# D2Limiter Binaries
 
-Public binary-only update repo for BobLimt.
+Public binary-only update channel for BobLimt/D2Limiter.
 
-Current version: v1.0.6
-Users should launch BobLimt.exe. The app checks latest.json on startup and applies full-folder zip updates automatically while preserving BobLimt.cfg and Ahk.
+The app checks `latest.json` on `main`, compares the version to the local build, shows the changelog, then downloads the full package zip when the user clicks Update Now. Source code is not stored in this repository.
