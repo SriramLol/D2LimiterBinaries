@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.11",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.11.zip",
-    "changelog":  "BobLimt v1.0.11\n\n- Full UI refresh: new icon set (traced vector icons for Settings, Overlay, Prefs, Keybinds, Swaps, AHK, and power), icon-only button row in the main window, and the Destiny tricorn logo in every title bar.\n- Power button in the main window closes the app; minimize moved to the top right. Other windows keep an X close button.\n- Softer overall look: thicker accent-colored window borders, rounder corners, and a softer UI font.\n- Window borders, the WinDivert status tag, and overlay badge outlines now follow your chosen accent color from Settings.\n- Main window title shows the app version.\n- No changes to gameplay logic, keybinds, swaps, the clear tracker, or the update process."
+    "version":  "1.0.12",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.12.zip",
+    "changelog":  "BobLimt v1.0.12\n\n- New Good 7500 macro (Keybinds - Frequently Used): one keybind runs the full load-manipulation + 7500 sequence natively, no AutoHotkey.\n- New QuickSwap tab in Swaps: bind a hotkey to any of your 20 loadouts to instantly equip it (opens inventory, loadouts menu, clicks the loadout, closes). Includes a customizable inventory-open delay.\n- Keybinds window is now scrollable.\n- Inventory and open-loadouts keys are now a single global setting shared across all loadout features.\n- No changes to gameplay logic, the clear tracker, or the update process."
 }
