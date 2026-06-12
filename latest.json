@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.21",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.21.zip",
-    "changelog":  "Vanguard v1.0.21\n\n- Keybinds can now use mouse buttons: right, middle, and the two side buttons (Mouse 4 / Mouse 5), on their own or combined with modifiers. Works for all hotkeys, swap profile binds, and QuickSwap binds.\n- Click a bind box and press the mouse button (or hold a modifier and press it) to set it. Left click is reserved for the UI and cannot be bound.\n- No changes to packet logic, swaps, or the update process."
+    "version":  "1.0.22",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.22.zip",
+    "changelog":  "Vanguard v1.0.22\n\n- The raid/dungeon clear banner now uses your chosen accent color (border, icon, and clear time) instead of a fixed green, matching the rest of the overlay.\n- No changes to packet logic, keybinds, swaps, or the update process."
 }
