@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.17",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.17.zip",
-    "changelog":  "Vanguard v1.0.17\n\n- The app is now called Vanguard (UI, window titles, and the updater are all rebranded).\n- Overlay module badges now update the instant you toggle a module, instead of lagging up to about a quarter second behind.\n- Added a single-instance safeguard: launching while the app is already running now brings the existing window forward instead of starting a second copy, which could show a duplicate/ghost overlay in a different accent color.\n- No changes to gameplay logic, keybinds, or swaps."
+    "version":  "1.0.18",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.18.zip",
+    "changelog":  "Vanguard v1.0.18\n\n- Swaps now wait for the inventory to actually finish opening before navigating, instead of using a fixed delay. This fixes swaps that failed or desynced on slower machines where the menu had not fully opened yet.\n- The \"is the menu open\" detection is resolution-independent and reads the fixed grey command bar at the bottom of the screen, so it works for every player regardless of emblem color or screen resolution.\n- Swap profile: after the inventory opens it now waits 100ms, presses the loadouts key 5 times (10ms apart), then runs the click sequence.\n- No changes to packet logic, keybinds, or the update process."
 }
