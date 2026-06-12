@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.18",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.18.zip",
-    "changelog":  "Vanguard v1.0.18\n\n- Swaps now wait for the inventory to actually finish opening before navigating, instead of using a fixed delay. This fixes swaps that failed or desynced on slower machines where the menu had not fully opened yet.\n- The \"is the menu open\" detection is resolution-independent and reads the fixed grey command bar at the bottom of the screen, so it works for every player regardless of emblem color or screen resolution.\n- Swap profile: after the inventory opens it now waits 100ms, presses the loadouts key 5 times (10ms apart), then runs the click sequence.\n- No changes to packet logic, keybinds, or the update process."
+    "version":  "1.0.19",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.19.zip",
+    "changelog":  "Vanguard v1.0.19\n\n- Swap profiles now have a configurable \"Pause Delay\" (next to Delay in the profile editor): the wait between opening the inventory and pressing the loadouts key. Replaces the previous fixed 100ms so you can tune it per profile.\n- Defaults to 100ms; each of your swap profiles keeps its own value.\n- No changes to packet logic, keybinds, or the update process."
 }
