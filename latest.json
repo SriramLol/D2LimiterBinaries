@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.19",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.19.zip",
-    "changelog":  "Vanguard v1.0.19\n\n- Swap profiles now have a configurable \"Pause Delay\" (next to Delay in the profile editor): the wait between opening the inventory and pressing the loadouts key. Replaces the previous fixed 100ms so you can tune it per profile.\n- Defaults to 100ms; each of your swap profiles keeps its own value.\n- No changes to packet logic, keybinds, or the update process."
+    "version":  "1.0.20",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.20.zip",
+    "changelog":  "Vanguard v1.0.20\n\n- New overlay Network Monitor badge: a draggable, resizable box showing live download/upload (DL/UL) traffic for the 3074, 27K, and 30K ports, with labeled columns.\n- Enable, move, resize, and hide it from the overlay Region Editor (Settings then Edit on Confined active region), just like the other badges. Off by default; its position, size, and on/off state are saved.\n- Monitoring piggybacks on the existing packet interception, so there is no measurable performance cost.\n- No changes to packet logic, keybinds, swaps, or the update process."
 }
