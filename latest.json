@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.29",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.29.zip",
-    "changelog":  "Vanguard v1.0.29\n- All-time leaderboard now counts the blocked traffic you racked up before leaderboards existed; it gets added to your lifetime total. (Weekly boards stay a rolling 7-day window.)\n- Leaderboards now scroll: each board shows the top 25 players. Mouse-wheel over a board to scroll through it.\n- New setting (Settings \u003e Overlay Details \u003e \"Show module icons\"). Turn it off to label the overlay badges with their port (3074 / 27K / 30K / 7500) instead of icons."
+    "version":  "1.0.30",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.30.zip",
+    "changelog":  "Vanguard v1.0.30\n- 30k is now a true freeze: it holds the instance until you untick it, then reinjects the held traffic. Previously it auto-released held packets after ~6 seconds, which thawed the freeze on its own and could re-deliver the server\u0027s reset a few seconds later and code the instance. Toggling 30k off now cleanly resumes the instance."
 }
