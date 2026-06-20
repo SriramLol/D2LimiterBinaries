@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.28",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.28.zip",
-    "changelog":  "Vanguard v1.0.28\n- New: community leaderboards on the dashboard (opt-in). A WEEKLY board you can click through per port (3074 / 27K / 30K / 7500), and an ALL-TIME board ranking total blocked traffic across all players.\n- Turn it on in Preferences \u003e Leaderboard \u003e \"Submit to leaderboard\" (off by default). Your Bungie name identifies you on the board.\n- Dashboard is now a 2x2 panel grid: clears + blocked traffic on top, weekly + all-time leaderboards below."
+    "version":  "1.0.29",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.29.zip",
+    "changelog":  "Vanguard v1.0.29\n- All-time leaderboard now counts the blocked traffic you racked up before leaderboards existed; it gets added to your lifetime total. (Weekly boards stay a rolling 7-day window.)\n- Leaderboards now scroll: each board shows the top 25 players. Mouse-wheel over a board to scroll through it.\n- New setting (Settings \u003e Overlay Details \u003e \"Show module icons\"). Turn it off to label the overlay badges with their port (3074 / 27K / 30K / 7500) instead of icons."
 }
