@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.26",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.26.zip",
-    "changelog":  "Vanguard v1.0.26\n\n30k reliability fix.\n\n30k\n- Fixed normal (no-buffer) 30k forwarding inbound TCP control packets (RST/FIN). While 30k was active the server\u0027s connection reset could reach the game and error-code the instance, most noticeably when toggling 30k off after ~10 seconds. These control packets are now blocked like every other inbound instance packet, matching intended behavior.\n\nNo other changes to packet logic or the 27k behavior."
+    "version":  "1.0.27",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.27.zip",
+    "changelog":  "Vanguard v1.0.27\n- New: clears heatmap on the main window. The CLEARS card now shows a month calendar colored by your daily raid + dungeon clears - hover any day for its counts, and use the arrows to browse the last 3 months.\n- New: 30k Slow module. Delays inbound 30k instance traffic with an optional resync bypass. Assign it a key under Keybinds to use it."
 }
