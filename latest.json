@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.25",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.25.zip",
-    "changelog":  "Vanguard v1.0.25\n\nOverlay customization and UI polish.\n\nOverlay\n- New \"Transparent backgrounds\" toggle (Settings \u003e Overlay details): makes the timer, clears counter, module badges, app icon, and network monitor see-through to the game, keeping just the accent outline and text.\n- The clears counter now has independent Raid and Dungeon toggles, so you can show raid only, dungeon only, both, or neither. The badge resizes to fit what you enable.\n\nUI\n- Widened buttons across Keybinds, Swaps, and Settings so long key combos and labels no longer get cut off with \"...\".\n- Port and Swap mode in the Swaps window are now clean single-label toggle buttons that show the current value (no more cramped two-part pill).\n\nNo changes to packet logic or the 27k behavior."
+    "version":  "1.0.26",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.26.zip",
+    "changelog":  "Vanguard v1.0.26\n\n30k reliability fix.\n\n30k\n- Fixed normal (no-buffer) 30k forwarding inbound TCP control packets (RST/FIN). While 30k was active the server\u0027s connection reset could reach the game and error-code the instance, most noticeably when toggling 30k off after ~10 seconds. These control packets are now blocked like every other inbound instance packet, matching intended behavior.\n\nNo other changes to packet logic or the 27k behavior."
 }
