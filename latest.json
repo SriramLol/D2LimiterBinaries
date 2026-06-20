@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.27",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.27.zip",
-    "changelog":  "Vanguard v1.0.27\n- New: clears heatmap on the main window. The CLEARS card now shows a month calendar colored by your daily raid + dungeon clears - hover any day for its counts, and use the arrows to browse the last 3 months.\n- New: 30k Slow module. Delays inbound 30k instance traffic with an optional resync bypass. Assign it a key under Keybinds to use it."
+    "version":  "1.0.28",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.28.zip",
+    "changelog":  "Vanguard v1.0.28\n- New: community leaderboards on the dashboard (opt-in). A WEEKLY board you can click through per port (3074 / 27K / 30K / 7500), and an ALL-TIME board ranking total blocked traffic across all players.\n- Turn it on in Preferences \u003e Leaderboard \u003e \"Submit to leaderboard\" (off by default). Your Bungie name identifies you on the board.\n- Dashboard is now a 2x2 panel grid: clears + blocked traffic on top, weekly + all-time leaderboards below."
 }
