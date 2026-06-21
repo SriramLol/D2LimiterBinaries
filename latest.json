@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.31",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.31.zip",
-    "changelog":  "Vanguard v1.0.31\n- New fireteam card at the bottom of the Control Center: shows your current Destiny activity, a live timer, and your fireteam (names + emblems). Uses your Bungie ID over the public Bungie API - no login needed. (Live fireteam needs your Bungie activity privacy set to public.)\n- New \"Badge size\" slider in Settings \u003e Overlay Details: scale the in-game port badges up or down while keeping their proportions.\n- Leaderboards: rank numbers now line up consistently (10th place and up no longer crowd the name).\n- Fixed a dark rectangle that could flash behind a module badge the first time you ticked it."
+    "version":  "1.0.32",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.32.zip",
+    "changelog":  "Vanguard v1.0.32\n- Fixed: the keybind capture ignored F10 (and Alt+key combos), so you could not bind them. Windows delivers F10 as a system/menu key; the binder now listens for those too."
 }
