@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.44",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.44.zip",
-    "changelog":  "Vanguard v1.0.44\n- The app icon can now be customized too (pick \"App Icon\" in Settings \u003e Overlay Details \u003e Custom icon). Custom app icons draw full-color as-is.\n- Custom port/module icons now render in the built-in monochrome style: the app keeps your image\u0027s shape and tints it to your accent color (dim when inactive), so a transparent-PNG silhouette looks just like the stock icons. Best input is a transparent PNG."
+    "version":  "1.0.45",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.45.zip",
+    "changelog":  "Vanguard v1.0.45\n- Clears heatmap recolored: green 1-9, yellow 10-24, orange 25-40, red over 40 (grey for none).\n- Limiter sessions: a player set to \"idiot\" can no longer leave the session themselves (their Leave button is locked) - only a host/admin changing their role can free them."
 }
