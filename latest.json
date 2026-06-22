@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.37",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.37.zip",
-    "changelog":  "Vanguard v1.0.37\n- Host pulse buttons now glow when engaged, so you can see which ports you have active for the group.\n- New \"Host Hotkeys\" section in Keybinds: bind keys to pulse Session 3074 / 27k / 30k / 7500 / Reconnect to everyone you control.\n- Controlled players are now fully locked out of their own limiter (all their module hotkeys are disabled while the host controls them).\n- The host clicks members in the roster to choose who to control; controlled players are highlighted, and pulses only affect them."
+    "version":  "1.0.38",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.38.zip",
+    "changelog":  "Vanguard v1.0.38\n- Leaderboard and traffic numbers now roll over to B (billions) and T (trillions) instead of showing huge M values."
 }
