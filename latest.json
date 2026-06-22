@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.43",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.43.zip",
-    "changelog":  "Vanguard v1.0.43\n- Custom overlay icons: replace the badge glyph for any module (3074 / 27k / 7500 / 30k / 30k Slow / Load / Reconnect / Game Pause). In Settings \u003e Overlay Details, use the new \"Custom icon\" row - cycle to a module, click Choose, and pick any image (PNG/JPG/BMP/GIF). Reset reverts to the built-in icon. Power users can also drop files into the app\u0027s \"icons\" folder. Transparent PNGs look best."
+    "version":  "1.0.44",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.44.zip",
+    "changelog":  "Vanguard v1.0.44\n- The app icon can now be customized too (pick \"App Icon\" in Settings \u003e Overlay Details \u003e Custom icon). Custom app icons draw full-color as-is.\n- Custom port/module icons now render in the built-in monochrome style: the app keeps your image\u0027s shape and tints it to your accent color (dim when inactive), so a transparent-PNG silhouette looks just like the stock icons. Best input is a transparent PNG."
 }
