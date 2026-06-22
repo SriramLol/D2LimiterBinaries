@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.32",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.32.zip",
-    "changelog":  "Vanguard v1.0.32\n- Fixed: the keybind capture ignored F10 (and Alt+key combos), so you could not bind them. Windows delivers F10 as a system/menu key; the binder now listens for those too."
+    "version":  "1.0.33",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.33.zip",
+    "changelog":  "Vanguard v1.0.33\n- Fireteam card now shows your full fireteam in a 3-column x 2-row grid (up to 6 players) instead of cutting off with \"+N more\"."
 }
