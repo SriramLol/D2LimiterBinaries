@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.42",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.42.zip",
-    "changelog":  "Vanguard v1.0.42\n- Sessions: role and control are now separate. A controller (host or admin) must SELECT the players they want to control - nobody is controlled automatically. Click a player to select/deselect them; click their role tag (M/A/I) to change role.\n- Host can control anyone they select; an admin can control anyone they select including the host; a member is only controlled if selected AND opted in; an idiot is controlled when selected and is always locked out of their own toggles."
+    "version":  "1.0.43",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.43.zip",
+    "changelog":  "Vanguard v1.0.43\n- Custom overlay icons: replace the badge glyph for any module (3074 / 27k / 7500 / 30k / 30k Slow / Load / Reconnect / Game Pause). In Settings \u003e Overlay Details, use the new \"Custom icon\" row - cycle to a module, click Choose, and pick any image (PNG/JPG/BMP/GIF). Reset reverts to the built-in icon. Power users can also drop files into the app\u0027s \"icons\" folder. Transparent PNGs look best."
 }
