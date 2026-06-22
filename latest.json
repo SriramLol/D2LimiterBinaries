@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.33",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.33.zip",
-    "changelog":  "Vanguard v1.0.33\n- Fireteam card now shows your full fireteam in a 3-column x 2-row grid (up to 6 players) instead of cutting off with \"+N more\"."
+    "version":  "1.0.36",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.36.zip",
+    "changelog":  "Vanguard v1.0.36\n- New Limiter Sessions: host a session and share a code; everyone who joins can be pulsed (3074 / 27k / 30k / 7500 / Reconnect) by the host. Members opt in and can leave anytime; the host can set a member\u0027s role to \"idiot\" to fully control their limiter while they are in the session. Uses the public backend - no login. (Find it in the new Limiter Session card on the dashboard.)\n- New Settings toggle \"Minimize session / activity widgets\": switch the dashboard cards between expanded (stacked, full detail) and minimized (small, side by side).\n- Leaderboards: the scrollbars can now be clicked and dragged (mouse-wheel still works too)."
 }
