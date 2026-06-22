@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.36",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.36.zip",
-    "changelog":  "Vanguard v1.0.36\n- New Limiter Sessions: host a session and share a code; everyone who joins can be pulsed (3074 / 27k / 30k / 7500 / Reconnect) by the host. Members opt in and can leave anytime; the host can set a member\u0027s role to \"idiot\" to fully control their limiter while they are in the session. Uses the public backend - no login. (Find it in the new Limiter Session card on the dashboard.)\n- New Settings toggle \"Minimize session / activity widgets\": switch the dashboard cards between expanded (stacked, full detail) and minimized (small, side by side).\n- Leaderboards: the scrollbars can now be clicked and dragged (mouse-wheel still works too)."
+    "version":  "1.0.37",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.37.zip",
+    "changelog":  "Vanguard v1.0.37\n- Host pulse buttons now glow when engaged, so you can see which ports you have active for the group.\n- New \"Host Hotkeys\" section in Keybinds: bind keys to pulse Session 3074 / 27k / 30k / 7500 / Reconnect to everyone you control.\n- Controlled players are now fully locked out of their own limiter (all their module hotkeys are disabled while the host controls them).\n- The host clicks members in the roster to choose who to control; controlled players are highlighted, and pulses only affect them."
 }
