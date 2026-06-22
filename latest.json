@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.38",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.38.zip",
-    "changelog":  "Vanguard v1.0.38\n- Leaderboard and traffic numbers now roll over to B (billions) and T (trillions) instead of showing huge M values."
+    "version":  "1.0.40",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.40.zip",
+    "changelog":  "Vanguard v1.0.40\n- Limiter sessions now have four roles. Host: the creator, full control. Admin: a co-host who can also pulse and manage roles. Member: must opt in (Accept control) to be pulsed. Idiot: force-controlled and locked out of their own toggles. The host or an admin clicks a player in the roster to cycle their role (Member, Admin, Idiot).\n- Reconnect reliability: it now fires whichever direction it captured (instead of needing both) and sends the reset twice. (Networks that drop forged RST packets can still block reconnect.)"
 }
