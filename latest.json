@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.40",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.40.zip",
-    "changelog":  "Vanguard v1.0.40\n- Limiter sessions now have four roles. Host: the creator, full control. Admin: a co-host who can also pulse and manage roles. Member: must opt in (Accept control) to be pulsed. Idiot: force-controlled and locked out of their own toggles. The host or an admin clicks a player in the roster to cycle their role (Member, Admin, Idiot).\n- Reconnect reliability: it now fires whichever direction it captured (instead of needing both) and sends the reset twice. (Networks that drop forged RST packets can still block reconnect.)"
+    "version":  "1.0.42",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.42.zip",
+    "changelog":  "Vanguard v1.0.42\n- Sessions: role and control are now separate. A controller (host or admin) must SELECT the players they want to control - nobody is controlled automatically. Click a player to select/deselect them; click their role tag (M/A/I) to change role.\n- Host can control anyone they select; an admin can control anyone they select including the host; a member is only controlled if selected AND opted in; an idiot is controlled when selected and is always locked out of their own toggles."
 }
