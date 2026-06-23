@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.51",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.51.zip",
-    "changelog":  "Vanguard v1.0.51\n- New Reinject pulse: bind a key to instantly reinject all buffered 3074 packets you are holding (a one-shot pulse, not a toggle - it flashes once).\n- New master ticking switch in the main window (the tiny slider under the status text). Turn it off for \"WinDivert Inactive\": all ports are forced off and port hotkeys are ignored, while the overlay, sessions, leaderboards, and timers keep working.\n- Added a 3074 DL Slow keybind (delay inbound), completing the 3074 slow pair.\n- Session Reconnect button now flashes briefly when pulsed instead of latching on/off like the other ports.\n- Added a Help button (bottom-right of the main window) that opens the community Discord.\n- Refreshed the bundled README/user guide: ports, UI customization, FAQ, and a changelog."
+    "version":  "1.0.52",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.52.zip",
+    "changelog":  "Vanguard v1.0.52\n- You can now paste a session code into the Join box with Ctrl+V instead of typing it.\n- Minor session/networking improvements."
 }
