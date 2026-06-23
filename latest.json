@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.46",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.46.zip",
-    "changelog":  "Vanguard v1.0.46\n- New overlay \"first input\" timer: bind a key to arm it, then your next keypress or click starts it counting. It lives in the overlay with the same move / resize / hide / accent options as the other widgets, plus separate Pause-Resume and Reset keybinds (all under a new TIMERS section in Keybinds).\n- Community leaderboards now list the top 100 instead of the top 25 - scroll through the full board.\n- Limiter sessions: each host/admin\u0027s choice of who to control is now private to them. A pulse only affects the players you selected, not everyone another controller picked."
+    "version":  "1.0.49",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.49.zip",
+    "changelog":  "Vanguard v1.0.49\n- Limiter session card cleaned up: neutral wording throughout (Host / Join Session), no more text about a host taking control of your limiter.\n- In-module tick timers (the per-module seconds counter on each badge) are now a bit larger and easier to read."
 }
