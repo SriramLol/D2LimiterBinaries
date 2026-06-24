@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.1",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v2.0.1.zip",
-    "changelog":  "Added Ship Skip (Preferences \u003e Quality of Life): when enabled, it automatically runs a no-port swap as you load into an instance - within the first minute, when the screen goes all black. Configure its loadouts/delays on the new \u0027Skip\u0027 tab in Swaps (it never touches ports). The Load Manipulation section is now named Quality of Life."
+    "version":  "2.0.2",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v2.0.2.zip",
+    "changelog":  "This update rolls back the Ship Skip feature from 2.0.1 while it is being reworked, restoring the stable 2.0.0 behavior. Bungie ID sign-in and the leaderboard remain unchanged."
 }
