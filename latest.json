@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.53",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.53.zip",
-    "changelog":  "Limiter sessions now persist across restarts: your session and any assigned roles are restored automatically when you relaunch (controlled players rejoin on their own). Includes instance-timer reliability fixes and a performance pass that lowers CPU/memory footprint to further reduce any impact on Destiny 2."
+    "version":  "2.0.0",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v2.0.0.zip",
+    "changelog":  "Sign in to play: you now enter your Bungie ID before using the limiter (open Settings and enter Name#1234) - the limiter stays off until you do. Leaderboard submission is now ON by default so your blocked-traffic stats are counted automatically; you can still turn it off in Settings."
 }
