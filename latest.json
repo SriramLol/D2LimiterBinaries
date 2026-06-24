@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.2",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v2.0.2.zip",
-    "changelog":  "This update rolls back the Ship Skip feature from 2.0.1 while it is being reworked, restoring the stable 2.0.0 behavior. Bungie ID sign-in and the leaderboard remain unchanged."
+    "version":  "2.0.3",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v2.0.3.zip",
+    "changelog":  "Fixes a rare input-lag / stuck-key issue some players hit when ticking the 3074 ports: keyboard input is now handled on its own dedicated thread so it stays responsive even under heavy load. No feature changes."
 }
