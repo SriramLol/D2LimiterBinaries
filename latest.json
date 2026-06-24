@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.52",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.52.zip",
-    "changelog":  "Vanguard v1.0.52\n- You can now paste a session code into the Join box with Ctrl+V instead of typing it.\n- Minor session/networking improvements."
+    "version":  "1.0.53",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v1.0.53.zip",
+    "changelog":  "Limiter sessions now persist across restarts: your session and any assigned roles are restored automatically when you relaunch (controlled players rejoin on their own). Includes instance-timer reliability fixes and a performance pass that lowers CPU/memory footprint to further reduce any impact on Destiny 2."
 }
