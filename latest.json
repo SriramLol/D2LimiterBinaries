@@ -1,6 +1,6 @@
 {
-    "version":  "2.0.11",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v2.0.11.zip",
-    "package_sha256":  "76fc1c6ea0a509e0dad2c2e637909533460fc3b5b8030ee66939ac30f2f06d39",
-    "changelog":  "Added a Settings background PNG customizer beside custom icons. The chosen PNG is copied as background.png, painted at native size behind normal BobLimt windows without stretching, and preserved across auto-updates with custom icons."
+    "version":  "2.0.12",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v2.0.12.zip",
+    "package_sha256":  "8a13b12ed8c4317d6b51439f2c616e30b6a8bfadb9f0be2993848973baee21ec",
+    "changelog":  "Fixes the login-check failure after the latest update by retrying older server audit RPC signatures while the hardware-lock SQL migration rolls out."
 }
