@@ -1,6 +1,6 @@
 {
-    "version":  "2.0.7",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v2.0.7.zip",
-    "package_sha256":  "c51f8f96b6429c869ef11e19827d85e686ef446ff70639c2a2c05b4f20989f88",
-    "changelog":  "v2.0.7: Hardens leaderboard writes against direct RPC abuse with hardware-lock validation, disables public lifetime seeding, adds server-side caps/rate limits, and requires SHA-256 verified update packages from the official binary repo."
+    "version":  "2.0.8",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v2.0.8.zip",
+    "package_sha256":  "9c20e3ff24c006fefa04cd09a97ce1c4daeeda9b95ba6faa84d4eff2b1d8d79c",
+    "changelog":  "v2.0.8: Hardens limiter sessions by removing the public active-session lobby, requiring long secure session codes, rejecting old short codes, and requiring authenticated session broadcasts so the anon key alone cannot enumerate and control active sessions."
 }
