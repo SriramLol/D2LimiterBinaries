@@ -1,6 +1,6 @@
 {
-    "version":  "2.0.12",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v2.0.12.zip",
-    "package_sha256":  "8a13b12ed8c4317d6b51439f2c616e30b6a8bfadb9f0be2993848973baee21ec",
-    "changelog":  "Fixes the login-check failure after the latest update by retrying older server audit RPC signatures while the hardware-lock SQL migration rolls out."
+    "version":  "2.0.14",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v2.0.14.zip",
+    "package_sha256":  "2f875a911c98de84230ec32bca210e4d31195ab3cb8d6feef0b04df5607f88a3",
+    "changelog":  "Server-authoritative sessions: session codes now only join rooms; pulses and role changes require Supabase approval for the locked Bungie ID and hardware hash. Realtime broadcasts are wake-up hints only."
 }
