@@ -1,6 +1,6 @@
 {
-    "version":  "2.0.15",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v2.0.15.zip",
-    "package_sha256":  "6f5dc1dbe6c802a383ed763190e27a2a561ae8ba5e25a4b492143d72ebba3a35",
-    "changelog":  "Adds the Settings box opacity slider for dashboard transparency and normalizes Bungie IDs case-insensitively for client submissions."
+    "version":  "2.0.16",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v2.0.16.zip",
+    "package_sha256":  "9224fa1e9a62b2b332ef6da71e1c934f6380f9f730ad2b9efa262d92d21f9ba1",
+    "changelog":  "Adds all-window box opacity, expanded background image formats, Layover/Resize background fit, and performance optimizations for resized background drawing and hidden overlay repainting."
 }
