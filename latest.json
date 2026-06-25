@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.5",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v2.0.5.zip",
-    "changelog":  "BobLimt v2.0.5 adds server-synced blocked traffic totals, resettable weekly port counters, IP-lock enforcement for Bungie IDs, overlay recovery after long alt-tabs, custom MP3 tick sounds, and fixed full-color custom icon imports."
+    "version":  "2.0.6",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v2.0.6.zip",
+    "changelog":  "v2.0.6: Adds motherboard hardware-ID login locks, Ship Skip with the Skip swap profile, and fixes failed PC checks so they show a login error while still allowing minimize/close."
 }
