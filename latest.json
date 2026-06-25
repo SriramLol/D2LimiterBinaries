@@ -1,6 +1,6 @@
 {
-    "version":  "2.0.14",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v2.0.14.zip",
-    "package_sha256":  "2f875a911c98de84230ec32bca210e4d31195ab3cb8d6feef0b04df5607f88a3",
-    "changelog":  "Server-authoritative sessions: session codes now only join rooms; pulses and role changes require Supabase approval for the locked Bungie ID and hardware hash. Realtime broadcasts are wake-up hints only."
+    "version":  "2.0.15",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v2.0.15.zip",
+    "package_sha256":  "6f5dc1dbe6c802a383ed763190e27a2a561ae8ba5e25a4b492143d72ebba3a35",
+    "changelog":  "Adds the Settings box opacity slider for dashboard transparency and normalizes Bungie IDs case-insensitively for client submissions."
 }
