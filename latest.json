@@ -1,6 +1,6 @@
 {
-    "version":  "2.0.8",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v2.0.8.zip",
-    "package_sha256":  "9c20e3ff24c006fefa04cd09a97ce1c4daeeda9b95ba6faa84d4eff2b1d8d79c",
-    "changelog":  "v2.0.8: Hardens limiter sessions by removing the public active-session lobby, requiring long secure session codes, rejecting old short codes, and requiring authenticated session broadcasts so the anon key alone cannot enumerate and control active sessions."
+    "version":  "2.0.9",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v2.0.9.zip",
+    "package_sha256":  "6f0ba3846a55e25a80d2ff8343ce8a456ccaf8c924f2ca0efddff03917a25845",
+    "changelog":  "v2.0.9: Adds hardware-locked remote config sync using a compact protobuf-style base64 blob stored in Supabase by Bungie ID. Startup pulls the server config before modules are built, and later local saves upload after the hardware login check passes."
 }
