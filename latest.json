@@ -1,6 +1,6 @@
 {
-    "version":  "2.0.16",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v2.0.16.zip",
-    "package_sha256":  "9224fa1e9a62b2b332ef6da71e1c934f6380f9f730ad2b9efa262d92d21f9ba1",
-    "changelog":  "Adds all-window box opacity, expanded background image formats, Layover/Resize background fit, and performance optimizations for resized background drawing and hidden overlay repainting."
+    "version":  "2.0.17",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v2.0.17.zip",
+    "package_sha256":  "159096506d431bef24ef6d4a98a4754957c302d798d0dd4cabbf7c03f8f1c5b3",
+    "changelog":  "Adds manual cloud settings import after verified Bungie login, uploads the latest config blob on close, stops packet audit spam by no longer logging passed packets, and includes the recent UI/background opacity and performance updates."
 }
