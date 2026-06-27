@@ -1,6 +1,6 @@
 {
-    "version":  "2.0.17",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v2.0.17.zip",
-    "package_sha256":  "159096506d431bef24ef6d4a98a4754957c302d798d0dd4cabbf7c03f8f1c5b3",
-    "changelog":  "Adds manual cloud settings import after verified Bungie login, uploads the latest config blob on close, stops packet audit spam by no longer logging passed packets, and includes the recent UI/background opacity and performance updates."
+    "version":  "2.0.18",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v2.0.18.zip",
+    "package_sha256":  "a7a60558f3a7d4e539a22db6a9ec9623321064a7dd72e8498c1e519c0ed3a627",
+    "changelog":  "Added Bungie ID blacklist handling and lowercase-normalized account key guards."
 }
