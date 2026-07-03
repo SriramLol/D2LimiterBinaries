@@ -1,6 +1,6 @@
 {
-    "version":  "2.0.18",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v2.0.18.zip",
-    "package_sha256":  "a7a60558f3a7d4e539a22db6a9ec9623321064a7dd72e8498c1e519c0ed3a627",
-    "changelog":  "Added Bungie ID blacklist handling and lowercase-normalized account key guards."
+    "version":  "2.0.19",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v2.0.19.zip",
+    "package_sha256":  "9469de205f8656e5f865c69f8929759cc1d0812bb503f78a0d488889e5bc6841",
+    "changelog":  "Fixed auto load manipulation firing twice back-to-back or restarting off stale packets, which pushed loads past the intended bucket (e.g. 46 instead of 26). Also includes the updated 27k port range and more consistent inventory pixel checks."
 }
