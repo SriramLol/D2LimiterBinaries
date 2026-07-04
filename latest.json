@@ -1,6 +1,6 @@
 {
-    "version":  "2.0.19",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v2.0.19.zip",
-    "package_sha256":  "9469de205f8656e5f865c69f8929759cc1d0812bb503f78a0d488889e5bc6841",
-    "changelog":  "Fixed auto load manipulation firing twice back-to-back or restarting off stale packets, which pushed loads past the intended bucket (e.g. 46 instead of 26). Also includes the updated 27k port range and more consistent inventory pixel checks."
+    "version":  "2.0.20",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v2.0.20.zip",
+    "package_sha256":  "f8c2312660f54d9ed9a412fe42731e7b6f98c98e285dc92a6834d9613646d837",
+    "changelog":  "Auto load manipulation now triggers directly off the new instance connection (SYN-based) instead of watching instance state, fixing holds that started late or never fired when the previous connection tore down uncleanly. The overlay load timer also resets at the real load boundary in those cases."
 }
