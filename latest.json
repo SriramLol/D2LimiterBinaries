@@ -1,6 +1,6 @@
 {
-    "version":  "2.0.20",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v2.0.20.zip",
-    "package_sha256":  "f8c2312660f54d9ed9a412fe42731e7b6f98c98e285dc92a6834d9613646d837",
-    "changelog":  "Auto load manipulation now triggers directly off the new instance connection (SYN-based) instead of watching instance state, fixing holds that started late or never fired when the previous connection tore down uncleanly. The overlay load timer also resets at the real load boundary in those cases."
+    "version":  "2.0.21",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v2.0.21.zip",
+    "package_sha256":  "763167b4814ae888c68194650b7beadd3d1ad3db34b61b3685bec11b515a2414",
+    "changelog":  "Session hosts and members can now click the session code to copy it. Also adds a server-verified admin view of active sessions (admin allowlist + secret + hardware-locked identity, view-only) and fixes the session diagnostics window dropping your active session when opened."
 }
