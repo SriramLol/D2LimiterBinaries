@@ -1,6 +1,6 @@
 {
-    "version":  "2.0.21",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v2.0.21.zip",
-    "package_sha256":  "763167b4814ae888c68194650b7beadd3d1ad3db34b61b3685bec11b515a2414",
-    "changelog":  "Session hosts and members can now click the session code to copy it. Also adds a server-verified admin view of active sessions (admin allowlist + secret + hardware-locked identity, view-only) and fixes the session diagnostics window dropping your active session when opened."
+    "version":  "2.0.22",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v2.0.22.zip",
+    "package_sha256":  "dcdbb11017981ac84cedebcb58c39db727c81ff4ae61ec24144372dba1b541ab",
+    "changelog":  "Temporarily turned off all online features (leaderboard, shared sessions, cloud config sync) while we harden the backend for security. The limiter itself works exactly as before - this only disables the parts that talk to our server. No local settings or behavior change."
 }
