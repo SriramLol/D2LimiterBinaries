@@ -1,6 +1,6 @@
 {
-    "version":  "2.0.27",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v2.0.27.zip",
-    "package_sha256":  "efee1bec4e620cb4d9eb0cf0c323e34a92ea1667882a95490b7145f4cab8d91e",
-    "changelog":  "Fixed accounts getting stuck on Checking this PC after login, and fixed Vanguard remaining open in Task Manager after closing. Failed profile verification now prompts users to sign in again."
+    "version":  "2.0.28",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v2.0.28.zip",
+    "package_sha256":  "4fac63050fe8db0137a41da64812244717cb1e425b840e43d541827b22b350e2",
+    "changelog":  "Temporary rollback to the last working offline limiter behavior. Online database, authenticated login, leaderboards, cloud config, and shared sessions are disabled while the secure backend flow is repaired."
 }
