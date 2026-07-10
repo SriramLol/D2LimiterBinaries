@@ -1,6 +1,6 @@
 {
-    "version":  "2.0.25",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v2.0.25.zip",
-    "package_sha256":  "1b76f2e9daba1d795d57b5e550cb8879d379f411635e991d3076fdef5cd95966",
-    "changelog":  "The limiter no longer gets stuck on \u0027Checking login\u0027 when you are not signed in - it runs offline until you choose to Authorize with Bungie.net, and verifies automatically once you do."
+    "version":  "2.0.26",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v2.0.26.zip",
+    "package_sha256":  "236b7ae665f1f221990370958232fe4ed994fa97751d0d67d04f4720a93fd691",
+    "changelog":  "The limiter now requires a verified account: sign in with Bungie and be approved before it will run. Leaderboards and shared sessions come online automatically once you are verified."
 }
