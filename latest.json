@@ -1,6 +1,6 @@
 {
-    "version":  "2.0.26",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v2.0.26.zip",
-    "package_sha256":  "236b7ae665f1f221990370958232fe4ed994fa97751d0d67d04f4720a93fd691",
-    "changelog":  "The limiter now requires a verified account: sign in with Bungie and be approved before it will run. Leaderboards and shared sessions come online automatically once you are verified."
+    "version":  "2.0.27",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v2.0.27.zip",
+    "package_sha256":  "efee1bec4e620cb4d9eb0cf0c323e34a92ea1667882a95490b7145f4cab8d91e",
+    "changelog":  "Fixed accounts getting stuck on Checking this PC after login, and fixed Vanguard remaining open in Task Manager after closing. Failed profile verification now prompts users to sign in again."
 }
