@@ -1,6 +1,6 @@
 {
-    "version":  "2.0.22",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v2.0.22.zip",
-    "package_sha256":  "dcdbb11017981ac84cedebcb58c39db727c81ff4ae61ec24144372dba1b541ab",
-    "changelog":  "Temporarily turned off all online features (leaderboard, shared sessions, cloud config sync) while we harden the backend for security. The limiter itself works exactly as before - this only disables the parts that talk to our server. No local settings or behavior change."
+    "version":  "2.0.23",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v2.0.23.zip",
+    "package_sha256":  "93d9f6d968a6c462c2f52f82f3ceb5a3a907b4b353121e88be31c189594e6af9",
+    "changelog":  "Online features now use secure Bungie sign-in. Open Settings and click Authorize with Bungie.net to enable the leaderboard, shared sessions, and cloud config - access is granted per account by an admin. The limiter itself works exactly as before."
 }
