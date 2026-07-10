@@ -1,6 +1,6 @@
 {
-    "version":  "2.0.24",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v2.0.24.zip",
-    "package_sha256":  "18cfe5b10bce99f0a418363b3fa3d2b7cae46c73e74277e60ec829dd926cf0c2",
-    "changelog":  "Fixes a sign-in race that could show \u0027Login check failed\u0027 and turn the limiter off right after launch. The limiter now waits for your Bungie session before checking in, and recovers automatically."
+    "version":  "2.0.25",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v2.0.25.zip",
+    "package_sha256":  "1b76f2e9daba1d795d57b5e550cb8879d379f411635e991d3076fdef5cd95966",
+    "changelog":  "The limiter no longer gets stuck on \u0027Checking login\u0027 when you are not signed in - it runs offline until you choose to Authorize with Bungie.net, and verifies automatically once you do."
 }
