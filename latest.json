@@ -1,6 +1,6 @@
 {
     "version":  "2.0.23",
     "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v2.0.23.zip",
-    "package_sha256":  "93d9f6d968a6c462c2f52f82f3ceb5a3a907b4b353121e88be31c189594e6af9",
+    "package_sha256":  "a62a0440ab5dd863d240606ed30f5e8b338dcd3bb4ba58adb9b2842184f69015",
     "changelog":  "Online features now use secure Bungie sign-in. Open Settings and click Authorize with Bungie.net to enable the leaderboard, shared sessions, and cloud config - access is granted per account by an admin. The limiter itself works exactly as before."
 }
