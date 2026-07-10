@@ -1,6 +1,6 @@
 {
-    "version":  "2.0.23",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v2.0.23.zip",
-    "package_sha256":  "a62a0440ab5dd863d240606ed30f5e8b338dcd3bb4ba58adb9b2842184f69015",
-    "changelog":  "Online features now use secure Bungie sign-in. Open Settings and click Authorize with Bungie.net to enable the leaderboard, shared sessions, and cloud config - access is granted per account by an admin. The limiter itself works exactly as before."
+    "version":  "2.0.24",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v2.0.24.zip",
+    "package_sha256":  "18cfe5b10bce99f0a418363b3fa3d2b7cae46c73e74277e60ec829dd926cf0c2",
+    "changelog":  "Fixes a sign-in race that could show \u0027Login check failed\u0027 and turn the limiter off right after launch. The limiter now waits for your Bungie session before checking in, and recovers automatically."
 }
