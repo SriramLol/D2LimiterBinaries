@@ -1,6 +1,6 @@
 {
-    "version":  "2.0.28",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v2.0.28.zip",
-    "package_sha256":  "4fac63050fe8db0137a41da64812244717cb1e425b840e43d541827b22b350e2",
-    "changelog":  "Temporary rollback to the last working offline limiter behavior. Online database, authenticated login, leaderboards, cloud config, and shared sessions are disabled while the secure backend flow is repaired."
+    "version":  "2.0.29",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v2.0.29.zip",
+    "package_sha256":  "1c6eca55434255b2f0a039db74ea86380f718de780c740ef29fb145cf50aa267",
+    "changelog":  "Complete UI redesign. The interface is rebuilt on Direct2D with a single minimal design system: one window with an icon rail, so Settings, Preferences, Keybinds, Swaps, Sessions and the AHK manager open in place instead of as separate popups. The in-game overlay is roughly half its old size, its text scales with each widget, and Box opacity now dims the panel behind a widget while the text on it stays fully readable. Your accent colour is used throughout. Existing settings, keybinds, swap profiles and sessions carry over unchanged."
 }
