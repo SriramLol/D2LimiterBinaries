@@ -1,6 +1,6 @@
 {
-    "version":  "2.0.30",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v2.0.30.zip",
-    "package_sha256":  "12c057545531af792565216011e96221f0718feddbe5bb0d339065e006f9994d",
-    "changelog":  "Retires the compact dashboard toggle, adds a row layout option for the module badges, and fixes mouse-wheel scrolling in the Keybinds, Swaps, Sessions and AHK views."
+    "version":  "2.0.31",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v2.0.31.zip",
+    "package_sha256":  "ec4c526f58e9a3198b1d1369a73153c48b3a671b90e0aa94b6eb9872cd871518",
+    "changelog":  "Adds a NohBoard-style key display with three capture-visibility modes, and an automatic run timer that starts on activity entry, splits on each new load, and tracks a personal best per activity."
 }
