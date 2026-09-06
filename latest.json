@@ -1,6 +1,6 @@
 {
-    "version":  "2.0.31",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v2.0.31.zip",
-    "package_sha256":  "ec4c526f58e9a3198b1d1369a73153c48b3a671b90e0aa94b6eb9872cd871518",
-    "changelog":  "Adds a NohBoard-style key display with three capture-visibility modes, and an automatic run timer that starts on activity entry, splits on each new load, and tracks a personal best per activity."
+    "version":  "3.0.0",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v3.0.0.zip",
+    "package_sha256":  "a2864de6987c21c5bfbc7a5e4a47ae50700c68b8eb96af71b7bd0a56e24c6f1a",
+    "changelog":  "BobLimt v3.0.0 is available. See the included README.txt for usage notes."
 }
