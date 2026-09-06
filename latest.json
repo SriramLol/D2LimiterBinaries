@@ -1,6 +1,6 @@
 {
-    "version":  "3.0.0",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v3.0.0.zip",
-    "package_sha256":  "a2864de6987c21c5bfbc7a5e4a47ae50700c68b8eb96af71b7bd0a56e24c6f1a",
-    "changelog":  "BobLimt v3.0.0 is available. See the included README.txt for usage notes."
+    "version":  "3.0.1",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v3.0.1.zip",
+    "package_sha256":  "56b2c39269f4083c78d15edf1c4ce43bcebf09458cc5b6fe642e30983d99fb19",
+    "changelog":  "Rollback: reverting the ship-skip auto-trigger change after reports of the app failing to launch/closing immediately on 3.0.0. Investigating."
 }
