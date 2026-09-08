@@ -1,6 +1,6 @@
 {
-    "version":  "3.0.3",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v3.0.3.zip",
-    "package_sha256":  "380421d2e4794e9d52e0c14036aaf08990ce6e29d5b6ee82f8ef6bd36e16bb15",
-    "changelog":  "Fixed a startup crash caused by a regex bug in the update checker. Ship-skip auto-trigger reworked to watch the correct connection and only fire during an actual load."
+    "version":  "3.0.4",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v3.0.4.zip",
+    "package_sha256":  "186342926b0dfd7c8c2645bfc338a8320a49d14890962135b00f9d86d43ba2eb",
+    "changelog":  "BobLimt v3.0.4: reworked the swap engine to a pixel-confirmed swap-count loop (was fixed-duration), added an Advanced Loadout Delay mode and a live Swap Counter HUD. Existing profiles need a Watch Point captured (Swaps panel) for the new counter/advanced-delay logic to work."
 }
