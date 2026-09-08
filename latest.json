@@ -1,6 +1,6 @@
 {
-    "version":  "3.0.5",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v3.0.5.zip",
-    "package_sha256":  "5d15dcff4f42629b666589334fadf49aea45a84fa8684653e7b040ef8ea90e82",
-    "changelog":  "BobLimt v3.0.5: per-profile swap mode is now Vanilla/K3 (was Legacy/Updated). Vanilla is the original blind click-cycle timer; K3 is the pixel-confirmed swap-count engine from v3.0.4, with Advanced Loadout Delay and the Swap Counter HUD as K3-only options. Also fixed the Watch Point capture hint rendering past the window edge."
+    "version":  "3.0.6",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v3.0.6.zip",
+    "package_sha256":  "13b894560e43625d0992cdb8f2950a92368a8098b7ca5bac640ee22f163fb33d",
+    "changelog":  "BobLimt v3.0.6: added a Launch Destiny button (titlebar, top-left) that runs a bundled fix blocking Steam\u0027s overlay-hook DLLs, disabling the Steam Overlay registry flag, and launching Destiny 2 via Steam. Note: the overlay block affects every Steam game, not just Destiny 2. No extra UAC prompt since the app already runs elevated."
 }
