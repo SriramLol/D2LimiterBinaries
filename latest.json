@@ -1,6 +1,6 @@
 {
-    "version":  "3.0.4",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v3.0.4.zip",
-    "package_sha256":  "186342926b0dfd7c8c2645bfc338a8320a49d14890962135b00f9d86d43ba2eb",
-    "changelog":  "BobLimt v3.0.4: reworked the swap engine to a pixel-confirmed swap-count loop (was fixed-duration), added an Advanced Loadout Delay mode and a live Swap Counter HUD. Existing profiles need a Watch Point captured (Swaps panel) for the new counter/advanced-delay logic to work."
+    "version":  "3.0.5",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v3.0.5.zip",
+    "package_sha256":  "5d15dcff4f42629b666589334fadf49aea45a84fa8684653e7b040ef8ea90e82",
+    "changelog":  "BobLimt v3.0.5: per-profile swap mode is now Vanilla/K3 (was Legacy/Updated). Vanilla is the original blind click-cycle timer; K3 is the pixel-confirmed swap-count engine from v3.0.4, with Advanced Loadout Delay and the Swap Counter HUD as K3-only options. Also fixed the Watch Point capture hint rendering past the window edge."
 }
