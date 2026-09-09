@@ -1,6 +1,6 @@
 {
-    "version":  "3.0.7",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v3.0.7.zip",
-    "package_sha256":  "21f8148b855cb23d46bfe71ad307d69aa1631ef45f7aa8e56ec96575597246e7",
-    "changelog":  "BobLimt v3.0.7: added Super 30k, a bindable module (Keybinds \u003e Super 30k) that clamps outbound 30k traffic\u0027s TCP window size instead of blocking/delaying inbound like the existing 30k/30k Slow toggles."
+    "version":  "3.0.8",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v3.0.8.zip",
+    "package_sha256":  "55dc7a79be3408b5e77b9a54155e3c0aa2a8948fc590674a220b1783152b4679",
+    "changelog":  "BobLimt v3.0.8: fixed Super 30k showing up under the TIMERS heading in Keybinds ? it\u0027s now grouped with 30k/30k Slow where it belongs."
 }
