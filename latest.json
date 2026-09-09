@@ -1,6 +1,6 @@
 {
-    "version":  "3.0.6",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v3.0.6.zip",
-    "package_sha256":  "13b894560e43625d0992cdb8f2950a92368a8098b7ca5bac640ee22f163fb33d",
-    "changelog":  "BobLimt v3.0.6: added a Launch Destiny button (titlebar, top-left) that runs a bundled fix blocking Steam\u0027s overlay-hook DLLs, disabling the Steam Overlay registry flag, and launching Destiny 2 via Steam. Note: the overlay block affects every Steam game, not just Destiny 2. No extra UAC prompt since the app already runs elevated."
+    "version":  "3.0.7",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v3.0.7.zip",
+    "package_sha256":  "21f8148b855cb23d46bfe71ad307d69aa1631ef45f7aa8e56ec96575597246e7",
+    "changelog":  "BobLimt v3.0.7: added Super 30k, a bindable module (Keybinds \u003e Super 30k) that clamps outbound 30k traffic\u0027s TCP window size instead of blocking/delaying inbound like the existing 30k/30k Slow toggles."
 }
