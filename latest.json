@@ -1,6 +1,6 @@
 {
-    "version":  "3.0.9",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v3.0.9.zip",
-    "package_sha256":  "3ec9ae1417298edd0091fa5b4ff5b29e6d8de48e877b429a5ca5000e13e2899e",
-    "changelog":  "BobLimt v3.0.9: added Quick Open, a Quality of Life toggle (Preferences) plus Inventory/Loadout Menu binds (Keybinds \u003e QUICK OPEN). When on, pressing your own Inventory bind auto-presses your Loadout Menu bind 5x so the loadouts tab is ready instantly. Your Inventory keypress is only watched, never blocked."
+    "version":  "3.0.10",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v3.0.10.zip",
+    "package_sha256":  "9524691f69736541041e0862a0585ed2013497a2a82fe683b9f8e92f0436d39e",
+    "changelog":  "BobLimt v3.0.10: Quick Open\u0027s settle delay (time between your Inventory press and the auto-pressed Loadout Menu) is now configurable in Preferences \u003e QUALITY OF LIFE, shown once Quick Open is toggled on. Defaults to 400ms."
 }
