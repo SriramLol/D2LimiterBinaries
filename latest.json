@@ -1,6 +1,6 @@
 {
-    "version":  "3.0.11",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v3.0.11.zip",
-    "package_sha256":  "de5c0d6418e732df796f301a4d1b591e8b6293ffa4c27cca05654d9c81b7fd4b",
-    "changelog":  "BobLimt v3.0.11: fixed the Swaps window ? its FINISHING card (Ending Loadout/Untick Delay/Watch Point/port toggles/Advanced Delay/Swap Counter) had grown taller than the window\u0027s real available space, so clicks on anything below \u0027Ending Loadout\u0027 fell through to dragging the main window instead. Tightened row spacing so everything fits and is clickable again."
+    "version":  "3.0.12",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v3.0.12.zip",
+    "package_sha256":  "558db183d77b4381ea6685c29a970fe3fb5a671e4e0263dba8fa0871482d751d",
+    "changelog":  "BobLimt v3.0.12: fixed Preferences overflowing its real available space the same way Swaps did (v3.0.11) -- adding the Quick Open row(s) pushed the QUALITY OF LIFE group past the popup\u0027s actual layout budget, making Background binds / Submit to leaderboard unclickable. Tightened row spacing so everything fits again."
 }
