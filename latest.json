@@ -1,6 +1,6 @@
 {
-    "version":  "3.0.8",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v3.0.8.zip",
-    "package_sha256":  "55dc7a79be3408b5e77b9a54155e3c0aa2a8948fc590674a220b1783152b4679",
-    "changelog":  "BobLimt v3.0.8: fixed Super 30k showing up under the TIMERS heading in Keybinds ? it\u0027s now grouped with 30k/30k Slow where it belongs."
+    "version":  "3.0.9",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v3.0.9.zip",
+    "package_sha256":  "3ec9ae1417298edd0091fa5b4ff5b29e6d8de48e877b429a5ca5000e13e2899e",
+    "changelog":  "BobLimt v3.0.9: added Quick Open, a Quality of Life toggle (Preferences) plus Inventory/Loadout Menu binds (Keybinds \u003e QUICK OPEN). When on, pressing your own Inventory bind auto-presses your Loadout Menu bind 5x so the loadouts tab is ready instantly. Your Inventory keypress is only watched, never blocked."
 }
