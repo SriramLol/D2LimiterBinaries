@@ -1,6 +1,6 @@
 {
-    "version":  "3.0.13",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v3.0.13.zip",
-    "package_sha256":  "1e0f6acbec7e44cd4349f390be2441f28a755d2f7ed958fbd83aea3df953c7f4",
-    "changelog":  "BobLimt v3.0.13: fixed the Settings window -- its layout is taller than the space the shell actually gives it, so the OVERLAY footer (Accent/Hex/Save) was clipped off with no way to reach it. Settings now scrolls with the mouse wheel like the other popups."
+    "version":  "3.1.0",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v3.1.0.zip",
+    "package_sha256":  "57140b66a7bc594ebad71b9457d5b9324b782487164d3d38f4f9a3c6de293e0f",
+    "changelog":  "BobLimt 3.1.0."
 }
