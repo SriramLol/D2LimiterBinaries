@@ -1,6 +1,6 @@
 {
-    "version":  "3.1.0",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v3.1.0.zip",
-    "package_sha256":  "57140b66a7bc594ebad71b9457d5b9324b782487164d3d38f4f9a3c6de293e0f",
-    "changelog":  "BobLimt 3.1.0."
+    "version":  "3.2.0",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v3.2.0.zip",
+    "package_sha256":  "830bb2f8d6ad1a5e18ffb8bd641f9133d426fb7fd53d32845ca273e7bf9f0b9e",
+    "changelog":  "Named, switchable keybind profiles (add/rename/delete/switch from tabs in the Keybinds window). Fixed a bug where clicking near the top of Settings, Preferences, Keybinds, Swaps, AHK Manager, or Sessions could drag the whole page instead of clicking."
 }
