@@ -1,6 +1,6 @@
 {
-    "version":  "3.2.1",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v3.2.1.zip",
-    "package_sha256":  "bc1177007a5b913ce6e06ad8281e7d2e6d866cdf7b426597fd57fe1ab2257c13",
-    "changelog":  "K3 swaps now count real individual clicks and always finish on the ending loadout. Advanced Delay paces clicks off the watch pixel (one click per loadout). The swap counter now works: it shows clicks/target only during a swap, and can be moved in the overlay position editor. Fixed the key display costing in-game FPS."
+    "version":  "3.2.2",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v3.2.2.zip",
+    "package_sha256":  "9f62e869158944cfe25ca2a25d37c4b3e92113fa6978506f2a1f9cfda7a4d3a0",
+    "changelog":  "Rolled back to the 3.2.0 feature set (named keybind profiles). Reverted the K3 click-count, movable swap counter and key display changes from 3.2.1."
 }
