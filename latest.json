@@ -1,6 +1,6 @@
 {
-    "version":  "3.2.0",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v3.2.0.zip",
-    "package_sha256":  "830bb2f8d6ad1a5e18ffb8bd641f9133d426fb7fd53d32845ca273e7bf9f0b9e",
-    "changelog":  "Named, switchable keybind profiles (add/rename/delete/switch from tabs in the Keybinds window). Fixed a bug where clicking near the top of Settings, Preferences, Keybinds, Swaps, AHK Manager, or Sessions could drag the whole page instead of clicking."
+    "version":  "3.2.1",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v3.2.1.zip",
+    "package_sha256":  "bc1177007a5b913ce6e06ad8281e7d2e6d866cdf7b426597fd57fe1ab2257c13",
+    "changelog":  "K3 swaps now count real individual clicks and always finish on the ending loadout. Advanced Delay paces clicks off the watch pixel (one click per loadout). The swap counter now works: it shows clicks/target only during a swap, and can be moved in the overlay position editor. Fixed the key display costing in-game FPS."
 }
