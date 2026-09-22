@@ -1,6 +1,6 @@
 {
-    "version":  "3.2.3",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v3.2.3.zip",
-    "package_sha256":  "6eec6a6df1f39beadd94f5aa24d5ea7fb9cb88b61382c7f2db71403498883bc5",
-    "changelog":  "Fixed the key display costing in-game FPS. Keeps the 3.2.0 swap behavior."
+    "version":  "3.2.4",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v3.2.4.zip",
+    "package_sha256":  "1250b249754c3ef32c6803330cb7dc682a9aa9384b2fbf712a2b557b756348c8",
+    "changelog":  "Port button on swap profiles now cycles 3074 -\u003e 27K -\u003e None."
 }
