@@ -1,6 +1,6 @@
 {
-    "version":  "3.2.4",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v3.2.4.zip",
-    "package_sha256":  "1250b249754c3ef32c6803330cb7dc682a9aa9384b2fbf712a2b557b756348c8",
-    "changelog":  "Port button on swap profiles now cycles 3074 -\u003e 27K -\u003e None."
+    "version":  "3.2.5",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v3.2.5.zip",
+    "package_sha256":  "3c713a60e607d88cd85659d135210ac7b9d7c15686c9c4358966bc78f1d519da",
+    "changelog":  "Key display on/off setting now persists across app restarts."
 }
