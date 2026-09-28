@@ -1,6 +1,6 @@
 {
-    "version":  "4.0.0",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.0.0.zip",
-    "package_sha256":  "0a82802e8a77444f6f90a8488a6850bad98e17811033e7ca8c82ee73e9d4d72f",
-    "changelog":  "BobLimt v4.0.0: swaps overhaul (independent UL/DL port flags, presets, custom order, ending loadout, hover/blink checks, resolution override), new modules (3074 2 / 27k 2, Weasel, Shot Sync, Drip Flush, auto-disable timers), dialogue skip screen trigger with auto focus, and a new Modules page in Preferences."
+    "version":  "4.0.1",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.0.1.zip",
+    "package_sha256":  "a0c937ea07e629f35dedbe414f3a7036bafbde887754b428023e4e8a3b1f4bd7",
+    "changelog":  "BobLimt v4.0.1: new Bar style for the module overlay (Settings \u003e Module display \u003e Style) with new module icons and per-module timers; Legacy style unchanged. Swaps: profile pages are now just arrows plus add/remove, and the game resolution override was removed."
 }
