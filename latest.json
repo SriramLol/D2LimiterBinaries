@@ -1,6 +1,6 @@
 {
-    "version":  "4.0.5",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.0.5.zip",
-    "package_sha256":  "c2d7fb90f5a30f086516249162c15e7d6c48acda3195da82a9f4d83080e77783",
-    "changelog":  "BobLimt v4.0.5: the Bar module style now only shows modules you have a keybind set for (a module that is on still shows while active)."
+    "version":  "4.0.6",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.0.6.zip",
+    "package_sha256":  "cf4c23b8e742ee4367fd1811ec77ebc8f651ee16774f18c0539d4329b276fc3e",
+    "changelog":  "BobLimt v4.0.6: Swaps no longer guess your resolution; loadouts click only where you set them. Profile 1 is now Main and every other profile uses Main\u0027s slot points unless it sets its own. Keybinds are paused while you capture loadout points or binds in Swaps. The Bar streak now ignores transparent backgrounds."
 }
