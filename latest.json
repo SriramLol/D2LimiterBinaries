@@ -1,6 +1,6 @@
 {
-    "version":  "4.0.3",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.0.3.zip",
-    "package_sha256":  "bae3e81bc1f66b889ddabe5897067a3aae03772d8095da0ce07137aceb8c86e8",
-    "changelog":  "BobLimt v4.0.3: the app version is now shown next to the BobLimt name at the top of the main window."
+    "version":  "4.0.4",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.0.4.zip",
+    "package_sha256":  "ee5045acb47f86bc7bee4a028f86eae07551d44e2fd423126bd536af5a97c609",
+    "changelog":  "BobLimt v4.0.4: First input and Run timers now have their own on/off switches (Preferences \u003e Modules \u003e Timers) and the timer keybinds only work when switched on. The Bar module style is always visible and has a new streak look."
 }
