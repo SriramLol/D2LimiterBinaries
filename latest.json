@@ -1,6 +1,6 @@
 {
-    "version":  "4.0.4",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.0.4.zip",
-    "package_sha256":  "ee5045acb47f86bc7bee4a028f86eae07551d44e2fd423126bd536af5a97c609",
-    "changelog":  "BobLimt v4.0.4: First input and Run timers now have their own on/off switches (Preferences \u003e Modules \u003e Timers) and the timer keybinds only work when switched on. The Bar module style is always visible and has a new streak look."
+    "version":  "4.0.5",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.0.5.zip",
+    "package_sha256":  "c2d7fb90f5a30f086516249162c15e7d6c48acda3195da82a9f4d83080e77783",
+    "changelog":  "BobLimt v4.0.5: the Bar module style now only shows modules you have a keybind set for (a module that is on still shows while active)."
 }
