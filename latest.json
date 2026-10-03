@@ -1,6 +1,6 @@
 {
-    "version":  "4.0.7",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.0.7.zip",
-    "package_sha256":  "25cfa465baeb60f170459b227af75ffb1db289fdaa3c2c8197bd4e967743d79a",
-    "changelog":  "BobLimt v4.0.7: Swaps now has profiles Main and 2-9 plus Skip and QuickSwap across the top; the profile pages (arrows, + and -) were removed. New profiles 6-9 use Main\u0027s loadout points until you set their own."
+    "version":  "4.0.8",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.0.8.zip",
+    "package_sha256":  "80eac5a653a9738c3eb37704fde8ec006ca9ad8878fb23a0b4121ba5a41308ac",
+    "changelog":  "BobLimt v4.0.8 is available. See the included README.txt for usage notes."
 }
