@@ -1,6 +1,6 @@
 {
-    "version":  "4.0.11",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.0.11.zip",
-    "package_sha256":  "936991d81c8be4ff43e9c9a755834ffb114c2d9d2e2428391da8af4ff632de4e",
-    "changelog":  "Username/password accounts and restored online features; cleaner embedded account page; persistent bob-to-clown remote limiter control with local controls retained; personalized clown styling; fixed slider dragging."
+    "version":  "4.1.0",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.1.0.zip",
+    "package_sha256":  "5da06e5f1132e306e40082dfb9c71bef9a03a9d2b52b93a00e0ffc2f29404171",
+    "changelog":  "Fixed account UI overlap and session controls; added live swap counter; consistent inventory settle, five loadouts keypresses with 15 ms spacing, then loadout settle. Detection temporarily unavailable; simplified profile controls."
 }
