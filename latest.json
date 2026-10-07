@@ -1,6 +1,6 @@
 {
-    "version":  "4.1.2",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.1.2.zip",
-    "package_sha256":  "77f9fc63d576467276a3d35388d4ce53a7d451a1428f9b159d39d39900d22b6e",
-    "changelog":  "Fixed loadout slot lights to reflect enabled state in both Slots and Custom mode. Slot toggles remain clickable in Custom mode without altering the custom order or swap logic."
+    "version":  "4.1.3",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.1.3.zip",
+    "package_sha256":  "181ff686d6d90ffb434a43971f347ff12647cf4bae6f250b15c4a1d09c0942d9",
+    "changelog":  "Reserve ending now cycles to N-1, then uses the ending loadout for the final confirmation. The swap counter stays visible through ending clicks. Watch-point confirmation and settling precede closing inventory; stalled or unconfirmed swaps release held ports and leave inventory open."
 }
