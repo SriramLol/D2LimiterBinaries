@@ -1,6 +1,6 @@
 {
-    "version":  "4.0.10",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.0.10.zip",
-    "package_sha256":  "cd2bcc565ede8ce6d8de48479234672ed3d5a42f724b77805e26f327c796db2a",
-    "changelog":  "27k badge now clears instantly on untick; buffered packets replay in the background"
+    "version":  "4.0.11",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.0.11.zip",
+    "package_sha256":  "936991d81c8be4ff43e9c9a755834ffb114c2d9d2e2428391da8af4ff632de4e",
+    "changelog":  "Username/password accounts and restored online features; cleaner embedded account page; persistent bob-to-clown remote limiter control with local controls retained; personalized clown styling; fixed slider dragging."
 }
