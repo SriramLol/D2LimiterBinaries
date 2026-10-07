@@ -1,6 +1,6 @@
 {
-    "version":  "4.1.1",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.1.1.zip",
-    "package_sha256":  "3f4721ca87b7686a8da6c5f4221f784b68718426390b852fb6eba8d14a27bc5c",
-    "changelog":  "Swap counter is now 30% larger, including text, with a permanently opaque background independent of overlay transparency settings."
+    "version":  "4.1.2",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.1.2.zip",
+    "package_sha256":  "77f9fc63d576467276a3d35388d4ce53a7d451a1428f9b159d39d39900d22b6e",
+    "changelog":  "Fixed loadout slot lights to reflect enabled state in both Slots and Custom mode. Slot toggles remain clickable in Custom mode without altering the custom order or swap logic."
 }
