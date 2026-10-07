@@ -1,6 +1,6 @@
 {
-    "version":  "4.1.0",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.1.0.zip",
-    "package_sha256":  "5da06e5f1132e306e40082dfb9c71bef9a03a9d2b52b93a00e0ffc2f29404171",
-    "changelog":  "Fixed account UI overlap and session controls; added live swap counter; consistent inventory settle, five loadouts keypresses with 15 ms spacing, then loadout settle. Detection temporarily unavailable; simplified profile controls."
+    "version":  "4.1.1",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.1.1.zip",
+    "package_sha256":  "3f4721ca87b7686a8da6c5f4221f784b68718426390b852fb6eba8d14a27bc5c",
+    "changelog":  "Swap counter is now 30% larger, including text, with a permanently opaque background independent of overlay transparency settings."
 }
