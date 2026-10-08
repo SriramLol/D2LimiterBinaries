@@ -1,6 +1,6 @@
 {
-    "version":  "4.1.5",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.1.5.zip",
-    "package_sha256":  "d2757098f3e4f3c2b23d86efb277ffb4150b132f0497377d1a48df91dc33ced6",
-    "changelog":  "Module bar icons now use recognizable Destiny symbols, including the Warlock crest, Crucible emblem, Ghost, engram, and Stasis symbol. Icon spacing is tighter while the entire bar continues to scale and stay centered in its display box. Existing colors, active indicators, direction arrows, and timers are preserved."
+    "version":  "4.1.6",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.1.6.zip",
+    "package_sha256":  "2c989a906ab1c646c60b9160e4028965147f95e70296f522ee40a013e2bf6cad",
+    "changelog":  "Active module icons now use your selected accent color with a noticeable glow. Removed the active highlight boxes for a cleaner module bar. Inactive icons remain gray; existing icon placement, scaling, direction arrows, and timers are preserved."
 }
