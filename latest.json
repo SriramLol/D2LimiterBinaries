@@ -1,6 +1,6 @@
 {
-    "version":  "4.1.7",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.1.7.zip",
-    "package_sha256":  "e9f5f5624f05a0d2e13ef39a5dca149081e0e6c0bd90a19570178382d872d0fa",
-    "changelog":  "Module icons are smaller and vertically centered, with active timers tucked beneath them inside the bar. Tighter side spacing keeps the display compact while preserving proportional scaling. All 30k modes now use the Traveler icon; Reconnect uses Ghost."
+    "version":  "4.1.8",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.1.8.zip",
+    "package_sha256":  "561658263de62e69cbb957f162425005c2e2da3bffb492493962d669c373825b",
+    "changelog":  "The 3074 module now uses the Destiny tricorn logo in place of the Warlock crest."
 }
