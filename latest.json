@@ -1,6 +1,6 @@
 {
-    "version":  "4.1.4",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.1.4.zip",
-    "package_sha256":  "008e138d4b50140d4eac1ca0dcc6ef0c06507fd6715af0db2ca36ca19270786b",
-    "changelog":  "Module bar now shows only modules with assigned binds, combines related modes, and makes active states and direction arrows clearer. The bar scales with its display box and uses a slimmer, centered background with slanted, fading ends. Its main timer matches the instance timer, active modules can show small elapsed timers, and Reconnect displays as a brief pulse."
+    "version":  "4.1.5",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.1.5.zip",
+    "package_sha256":  "d2757098f3e4f3c2b23d86efb277ffb4150b132f0497377d1a48df91dc33ced6",
+    "changelog":  "Module bar icons now use recognizable Destiny symbols, including the Warlock crest, Crucible emblem, Ghost, engram, and Stasis symbol. Icon spacing is tighter while the entire bar continues to scale and stay centered in its display box. Existing colors, active indicators, direction arrows, and timers are preserved."
 }
