@@ -1,6 +1,6 @@
 {
-    "version":  "4.1.6",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.1.6.zip",
-    "package_sha256":  "2c989a906ab1c646c60b9160e4028965147f95e70296f522ee40a013e2bf6cad",
-    "changelog":  "Active module icons now use your selected accent color with a noticeable glow. Removed the active highlight boxes for a cleaner module bar. Inactive icons remain gray; existing icon placement, scaling, direction arrows, and timers are preserved."
+    "version":  "4.1.7",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.1.7.zip",
+    "package_sha256":  "e9f5f5624f05a0d2e13ef39a5dca149081e0e6c0bd90a19570178382d872d0fa",
+    "changelog":  "Module icons are smaller and vertically centered, with active timers tucked beneath them inside the bar. Tighter side spacing keeps the display compact while preserving proportional scaling. All 30k modes now use the Traveler icon; Reconnect uses Ghost."
 }
