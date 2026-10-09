@@ -1,6 +1,6 @@
 {
-    "version":  "4.1.8",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.1.8.zip",
-    "package_sha256":  "561658263de62e69cbb957f162425005c2e2da3bffb492493962d669c373825b",
-    "changelog":  "The 3074 module now uses the Destiny tricorn logo in place of the Warlock crest."
+    "version":  "4.1.9",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.1.9.zip",
+    "package_sha256":  "08103aa4a9e5597d1504769f5b79f0c67ea635c2b590ba0a6d38260e31e4135e",
+    "changelog":  "Swaps now finish with eight ending-loadout clicks, then press F1 immediately when Close inventory is enabled. Removed the final watch-pixel confirmation wait that could leave inventory open after the swaps completed."
 }
