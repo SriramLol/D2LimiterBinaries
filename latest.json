@@ -1,6 +1,6 @@
 {
-    "version":  "4.1.9",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.1.9.zip",
-    "package_sha256":  "08103aa4a9e5597d1504769f5b79f0c67ea635c2b590ba0a6d38260e31e4135e",
-    "changelog":  "Swaps now finish with eight ending-loadout clicks, then press F1 immediately when Close inventory is enabled. Removed the final watch-pixel confirmation wait that could leave inventory open after the swaps completed."
+    "version":  "4.1.10",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.1.10.zip",
+    "package_sha256":  "5f0a65132e7de1a28d13ef4cafaf5a8406b2075900c543837f269b19b4929274",
+    "changelog":  "Leaderboard no longer stops counting under heavy blocking and keeps unsent bytes across restarts; weekly and all-time boards now scroll."
 }
