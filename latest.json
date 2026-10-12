@@ -1,6 +1,6 @@
 {
-    "version":  "4.1.12",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.1.12.zip",
-    "package_sha256":  "d935613ba317621a9ff96e21e02b8b4cf27d701998b8e1c840d69721a069fe48",
-    "changelog":  "Crosshair now hides in menus (inventory, director, pause) and comes back in gameplay - switch on the Crosshair page. Custom crosshair images get their background removed automatically, including fake checkerboard \u0027transparent\u0027 PNGs."
+    "version":  "4.1.13",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.1.13.zip",
+    "package_sha256":  "42c0b3a5f92901d5a9d3906a4dc0fed374f32c23e630d7c0c602384393f73326",
+    "changelog":  "Fixed custom crosshair images keeping their background. Solid backgrounds are now removed everywhere, including inside outlines and rings. Re-drop your image (or crosshair.png) on the Crosshair page to reprocess it."
 }
