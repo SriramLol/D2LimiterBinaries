@@ -1,6 +1,6 @@
 {
-    "version":  "4.1.13",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.1.13.zip",
-    "package_sha256":  "42c0b3a5f92901d5a9d3906a4dc0fed374f32c23e630d7c0c602384393f73326",
-    "changelog":  "Fixed custom crosshair images keeping their background. Solid backgrounds are now removed everywhere, including inside outlines and rings. Re-drop your image (or crosshair.png) on the Crosshair page to reprocess it."
+    "version":  "4.1.14",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.1.14.zip",
+    "package_sha256":  "c9d0bf0cd912f0ba608c9a536ca101a70461d8f6149b742fa5fd8c874889f3de",
+    "changelog":  "Custom crosshair images can now be recolored to your crosshair color (Recolor lines) and have their inside filled (Fill 0-100%) - outline only, tinted, or solid. Color swatches now work for images too."
 }
