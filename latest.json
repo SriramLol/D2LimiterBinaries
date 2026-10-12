@@ -1,6 +1,6 @@
 {
-    "version":  "4.1.11",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.1.11.zip",
-    "package_sha256":  "aee220573ebf9c2ce5b256f2814262b56a4a33927979147647bf3bfac13b0301",
-    "changelog":  "New Crosshair page: dot, plus, or drag-and-drop your own image. Adjustable color, size, thickness, gap, opacity and outline, with a toggle keybind (Keybinds \u003e Crosshair). Shows centered over Destiny only."
+    "version":  "4.1.12",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.1.12.zip",
+    "package_sha256":  "d935613ba317621a9ff96e21e02b8b4cf27d701998b8e1c840d69721a069fe48",
+    "changelog":  "Crosshair now hides in menus (inventory, director, pause) and comes back in gameplay - switch on the Crosshair page. Custom crosshair images get their background removed automatically, including fake checkerboard \u0027transparent\u0027 PNGs."
 }
