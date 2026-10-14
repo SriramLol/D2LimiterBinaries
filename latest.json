@@ -1,6 +1,6 @@
 {
-    "version":  "4.1.14",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.1.14.zip",
-    "package_sha256":  "c9d0bf0cd912f0ba608c9a536ca101a70461d8f6149b742fa5fd8c874889f3de",
-    "changelog":  "Custom crosshair images can now be recolored to your crosshair color (Recolor lines) and have their inside filled (Fill 0-100%) - outline only, tinted, or solid. Color swatches now work for images too."
+    "version":  "4.1.15",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.1.15.zip",
+    "package_sha256":  "ee320fab0bd66265b44aa036b8eba3530647b8f24675e2b7c43c3e2e9e886c5d",
+    "changelog":  "Super 30k stall length is now adjustable (Preferences \u003e Modules \u003e Super 30k, default 15s)."
 }
