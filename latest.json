@@ -1,6 +1,6 @@
 {
-    "version":  "4.1.15",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.1.15.zip",
-    "package_sha256":  "ee320fab0bd66265b44aa036b8eba3530647b8f24675e2b7c43c3e2e9e886c5d",
-    "changelog":  "Super 30k stall length is now adjustable (Preferences \u003e Modules \u003e Super 30k, default 15s)."
+    "version":  "4.2.0",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.2.0.zip",
+    "package_sha256":  "3efbedbbdbd3d5d6e9aa306e2a3dc3dda9b0406dfab08db425f1d3edb07f3fa8",
+    "changelog":  "Reorganized every page (Modules, Overlay, General split out), hover tooltips everywhere, settings no longer untick ports, QuickSwap uses your game binds, 7500 weekly board, bigger leaderboards."
 }
