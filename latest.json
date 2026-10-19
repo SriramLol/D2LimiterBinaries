@@ -1,6 +1,6 @@
 {
-    "version":  "4.2.0",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.2.0.zip",
-    "package_sha256":  "3efbedbbdbd3d5d6e9aa306e2a3dc3dda9b0406dfab08db425f1d3edb07f3fa8",
-    "changelog":  "Reorganized every page (Modules, Overlay, General split out), hover tooltips everywhere, settings no longer untick ports, QuickSwap uses your game binds, 7500 weekly board, bigger leaderboards."
+    "version":  "4.2.1",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.2.1.zip",
+    "package_sha256":  "ac77fc333417dd2881f34e1133176d791e48f8f21d320b909d589525a779cd22",
+    "changelog":  "Fix: swaps and QuickSwap no longer trigger Quick Open, which pressed the Loadouts key again after the inventory closed."
 }
