@@ -1,6 +1,6 @@
 {
-    "version":  "4.2.3",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.2.3.zip",
-    "package_sha256":  "79fca0310eb47fc433733395f364ac6cf182bcfa08cef5afebd08612017e589c",
-    "changelog":  "RON 30k now keeps holding after the encounter-start flush: it sends everything up to that packet, then holds the rest until you untick."
+    "version":  "4.2.4",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.2.4.zip",
+    "package_sha256":  "5354b4c7cf01053572a7604a53f0bee13ad8aa02393c662a821e7e669117a76c",
+    "changelog":  "RON 30k: flushes everything up to the trigger packet, then keeps holding until you untick. Trigger size and tolerance are under Modules \u003e RON 30K."
 }
