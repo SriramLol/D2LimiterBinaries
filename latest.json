@@ -1,6 +1,6 @@
 {
-    "version":  "4.2.2",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.2.2.zip",
-    "package_sha256":  "8006ed1849df8600def4806c726deeb98c6845b908bc17472e9a46435d56c440",
-    "changelog":  "New RON 30k bind: holds 30k and, when the encounter-start packet arrives, sends everything it held and unticks itself. Tolerance is under Modules \u003e RON 30K."
+    "version":  "4.2.3",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.2.3.zip",
+    "package_sha256":  "79fca0310eb47fc433733395f364ac6cf182bcfa08cef5afebd08612017e589c",
+    "changelog":  "RON 30k now keeps holding after the encounter-start flush: it sends everything up to that packet, then holds the rest until you untick."
 }
