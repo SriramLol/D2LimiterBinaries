@@ -1,6 +1,6 @@
 {
-    "version":  "4.2.4",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.2.4.zip",
-    "package_sha256":  "5354b4c7cf01053572a7604a53f0bee13ad8aa02393c662a821e7e669117a76c",
-    "changelog":  "RON 30k: flushes everything up to the trigger packet, then keeps holding until you untick. Trigger size and tolerance are under Modules \u003e RON 30K."
+    "version":  "4.2.5",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.2.5.zip",
+    "package_sha256":  "4bda2203ceb72a965be92e5a30fc43c9fd7ee09e0147c9c5ac9953fda0f9f19e",
+    "changelog":  "New Auto Join: holds 30k and unticks itself when its trigger packet arrives. RON 30k now keeps holding after its flush until you untick. Trigger sizes and tolerances are under Modules."
 }
