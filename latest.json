@@ -1,6 +1,6 @@
 {
-    "version":  "4.2.7",
-    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.2.7.zip",
-    "package_sha256":  "6a55ff6bc93fde5f3a055117573fd58217c707ed5d89470a326fe54cdcb22eb1",
-    "changelog":  "New Auto Join: holds 30k (right away or from an optional start packet) and unticks itself at its end packet, with an optional untick delay. RON 30k keeps holding after its flush until you untick. Settings are under Modules."
+    "version":  "4.2.8",
+    "package_url":  "https://raw.githubusercontent.com/SriramLol/D2LimiterBinaries/main/BobLimt-v4.2.8.zip",
+    "package_sha256":  "f6e1a27493f182c019bb02f879aae6113c9333897bec0574c537091b198e6ffe",
+    "changelog":  "BobLimt v4.2.8 is available. See the included README.txt for usage notes."
 }
